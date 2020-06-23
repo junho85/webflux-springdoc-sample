@@ -1,1 +1,6 @@
 = webflux springdoc sample
+
+== swagger-ui
+http://localhost:9090/swagger-ui.html
+
+image::doc/swagger-ui.png[]
